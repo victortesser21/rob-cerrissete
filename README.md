@@ -5,4 +5,4 @@ Robô autônomo usando a plataforma Arduino que consegue perceber o ambiente e s
 ## Autor
 Nome completo
 ## Simulador do Projeto
-[tinkercad]https://www.tinkercad.com/things/gsr2YlONMqB-cerrissete)
+[tinkercad](https://www.tinkercad.com/things/gsr2YlONMqB-cerrissete)
